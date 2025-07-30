@@ -27,7 +27,8 @@ Images are collected manually using `collect.py`. Each class is stored in a sepa
 
 ### Installation
 
-git clone https://github.com//nehaa211/Sign-Language.git
+git clone
+https://github.com/nehaa211/Sign-Language-.git
 cd sign-language-recognition
 pip install -r requirements.txt
 
